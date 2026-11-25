@@ -45,7 +45,7 @@ Noto Sans CJK 仍留在 fallback 链上，生僻字、韩文、少数民族文�
 
 ## 安装
 
-1. 下载 `dist/OPPOSans-Android11-v1.0.0.zip`（Regular）或 `-Medium.zip`
+1. 下载 [Releases](https://github.com/kelsuita/OPPOSans-Android11/releases) 里的 `OPPOSans-Android11-v1.0.0.zip`（Regular）或 `-Medium.zip`
 2. Magisk App → 底部「模块」→ 左上角 `+` → 从本地安装 → 选择 zip
 3. 重启
 
